@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name: "Abduvosid Malikov"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/images/WIUT_MA.jpg"
   bio: "Portfolio"
   location: "Tashkent, Uzb"
   email:
@@ -273,7 +273,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
