@@ -2,8 +2,8 @@
 title: "ASP.Net web app with CRUD: EF code first approach"
 date: 2020-04-19
 tags: [web development, asp.net, crud, code first]
-header: 
-    image: "/images/crud-code-first/crud.jpg"
+#header: 
+#    image: "/images/crud-code-first/crud.jpg"
 excerpt: "Web Development, CRUD, Code First"
 ---
 
