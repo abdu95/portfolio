@@ -23,3 +23,9 @@ What she said: you need at least two years of experience. RA experience is not e
 
 
 EPAM interview as well
+
+
+
+Last year, I made a web app for HR.
+#Toptal : You don't have required abilities.
+At least 2 years of experience required.
